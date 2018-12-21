@@ -1,3 +1,3 @@
 # GCWRepos
-Trying to create a repository.
+Created a repository.
 File contains notes about Azure DevOps and TFS
